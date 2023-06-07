@@ -56,9 +56,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Data Structures and Algorithms',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Data Structures and Algorithms Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -68,7 +68,7 @@ const config = {
         style: 'dark',
         links: [
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} CodeLib Online. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

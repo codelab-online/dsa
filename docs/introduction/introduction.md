@@ -2,4 +2,6 @@
 sidebar_position: 2
 ---
 
-# Introduction to Data Structures and Algorithm
+# Intro to Data Structures and Algorithms
+
+High-level overview
